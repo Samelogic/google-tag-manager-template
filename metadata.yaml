@@ -1,0 +1,5 @@
+homepage: "https://samelogic.com"
+documentation: "https://samelogic.com/docs/references/sdks/web/installation/google-tag-manager"
+versions:
+  - sha: 5f02a788b90ae804f86b04aa24af8937e567874a
+    changeNotes: Initial release.
