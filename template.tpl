@@ -14,7 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "Samelogic",
-  "categories": ["SURVEY", "EXPERIMENTATION"]
+  "categories": ["SURVEY", "EXPERIMENTATION"],
   "brand": {
     "id": "brand_dummy",
     "displayName": "",
